@@ -1,2 +1,2 @@
-# Summer_Assignment_25CSE095
+# Summer_Assignment_25Cs126
 summer coding assignment
